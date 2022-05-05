@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
+Deployed to github pages. Click the link for live version https://anca-blb.github.io/Travel-Journal/
 
 # About
 
