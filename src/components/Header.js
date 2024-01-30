@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <header>
             <img className="header-img" src="./img/globe.png" alt="" />
-            <p className="header-title">my travel journal</p>
+            <p className="header-title">My Travel Journal</p>
         </header>
     )
 }
