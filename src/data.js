@@ -14,7 +14,7 @@ export default  [
 
     {
         id: "2",
-        title: "Salt Lake Larnaca",
+        title: "Salt Lake",
         location: "Cyprus",
         googleMapsUrl: "https://goo.gl/maps/MsaVKsJroAsv5ozB7",
         startDate: "30 Aug, 2021",
